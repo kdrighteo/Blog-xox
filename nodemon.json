@@ -1,0 +1,7 @@
+{
+    "env": {
+        "MONGO_USER": "john-amo",
+        "MONGO_PASSWORD": "deCaTIkv2ngh4EJf",
+        "MONGO_DB": "blog-app"
+    }
+}
