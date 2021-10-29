@@ -1,7 +1,0 @@
-{
-    "env": {
-        "MONGO_USER": "danso",
-        "MONGO_PASSWORD": "somethingElse",
-        "MONGO_DB": "blog-xox"
-    }
-}
